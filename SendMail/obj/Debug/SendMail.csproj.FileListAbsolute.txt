@@ -1,0 +1,17 @@
+C:\Users\masit\source\repos\SendMail\SendMail\bin\Debug\SendMail.exe.config
+C:\Users\masit\source\repos\SendMail\SendMail\bin\Debug\SendMail.exe
+C:\Users\masit\source\repos\SendMail\SendMail\bin\Debug\SendMail.pdb
+C:\Users\masit\source\repos\SendMail\SendMail\obj\Debug\SendMail.csprojAssemblyReference.cache
+C:\Users\masit\source\repos\SendMail\SendMail\obj\Debug\MainWindow.g.cs
+C:\Users\masit\source\repos\SendMail\SendMail\obj\Debug\App.g.cs
+C:\Users\masit\source\repos\SendMail\SendMail\obj\Debug\SendMail_MarkupCompile.cache
+C:\Users\masit\source\repos\SendMail\SendMail\obj\Debug\SendMail_MarkupCompile.lref
+C:\Users\masit\source\repos\SendMail\SendMail\obj\Debug\MainWindow.baml
+C:\Users\masit\source\repos\SendMail\SendMail\obj\Debug\SendMail.g.resources
+C:\Users\masit\source\repos\SendMail\SendMail\obj\Debug\SendMail.Properties.Resources.resources
+C:\Users\masit\source\repos\SendMail\SendMail\obj\Debug\SendMail.csproj.GenerateResource.cache
+C:\Users\masit\source\repos\SendMail\SendMail\obj\Debug\SendMail.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\SendMail\SendMail\obj\Debug\SendMail.exe
+C:\Users\masit\source\repos\SendMail\SendMail\obj\Debug\SendMail.pdb
+C:\Users\masit\source\repos\SendMail\SendMail\obj\Debug\SmtpSettings.g.cs
+C:\Users\masit\source\repos\SendMail\SendMail\obj\Debug\SmtpSettings.baml
